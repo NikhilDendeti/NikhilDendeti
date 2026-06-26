@@ -1,20 +1,91 @@
-<h1 align="center">Hi 👋, I'm Nikhil Dendeti</h1>
-<h3 align="center">A passionate tech enthusiast Btech Student from India</h3>
+<h1 align="center">Hi, I'm Nikhil Dendeti 👋</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nikhildendeti&label=Profile%20views&color=0e75b6&style=flat" alt="nikhildendeti" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nikhildendeti" alt="nikhildendeti" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
-- I’m currently working on **Static website**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=CS+Undergrad+%40+BITS+Pilani+(CGPA+9.7);Building+AI%2FLLM+Systems+%26+RAG+Pipelines;Full-Stack+Developer+%7C+Python+%2F+Django+%2F+React;Open+to+SDE+%26+AI+Engineering+Internships" alt="Typing SVG" />
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nikhildendeti&show_icons=true&locale=en&layout=compact" alt="nikhildendeti" /></p>
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=nikhildendeti&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views" />
+<img src="https://img.shields.io/badge/CGPA-9.7%2F10-success?style=for-the-badge" alt="cgpa" />
+<img src="https://img.shields.io/badge/Status-Open%20to%20Internships-brightgreen?style=for-the-badge" alt="open to work" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nikhildendeti&show_icons=true&locale=en" alt="nikhildendeti" /></p>
+<p align="center">
+<a href="#"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="#"><img src="https://img.shields.io/badge/Resume-000000?style=for-the-badge&logo=readthedocs&logoColor=white" /></a>
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nikhildendeti&" alt="nikhildendeti" /></p>
+---
+
+### 🏆 Why I'm worth a second look
+<table align="center">
+<tr>
+<td align="center">🥈<br><b>2nd Prize</b><br>Build for Telangana 2025</td>
+<td align="center">🔝<br><b>Top 10</b><br>OpenAI Buildathon</td>
+<td align="center">🎯<br><b>AIR 10</b><br>GeeksforGeeks</td>
+<td align="center">📜<br><b>Certified</b><br>Neo4j RAG Knowledge Graphs</td>
+</tr>
+</table>
+
+---
+
+### 🚀 Featured Builds
+
+> #### 🤖 [SmartCopAI](#)
+> AI-powered agentic system using LLM orchestration for automated decision-making.
+> `LangChain` `CrewAI` `Python` `RAG`
+
+> #### 💼 [Veersa](#)
+> Full-stack freelancing marketplace connecting clients and freelancers end-to-end.
+> `Django` `FastAPI` `React` `PostgreSQL`
+
+> #### 📈 [Stock Sense](https://github.com/NikhilDendeti/Stock_Sense)
+> Market analysis tool that crunches stock data into actionable insight.
+> `Python` `Data Analysis`
+
+> #### 🥬 Pracheena Organics — Platform Redesign
+> End-to-end PRD + system redesign: checkout reliability, wallet, subscriptions, refunds, WhatsApp integration, Razorpay webhook architecture.
+> `Product Design` `System Architecture`
+
+<p align="center"><i>Repo links are placeholders — swap in the real URLs (and make sure each repo has its own README) before sharing this profile.</i></p>
+
+---
+
+### 🧠 Tech Stack
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,django,fastapi,react,nodejs,cpp,js,neo4j,git,github,vscode,linux" />
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
+<img src="https://img.shields.io/badge/RAG_Pipelines-0E75B6?style=flat-square" />
+<img src="https://img.shields.io/badge/GPT--4o-412991?style=flat-square&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/LLaMA-FFB000?style=flat-square&logo=meta&logoColor=white" />
+<img src="https://img.shields.io/badge/Milvus-00A1EA?style=flat-square" />
+<img src="https://img.shields.io/badge/CrewAI-FF6B35?style=flat-square" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=nikhildendeti&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikhildendeti&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=nikhildendeti&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=nikhildendeti&theme=tokyonight&no-frame=true&row=1&column=6" />
+</p>
+
+---
+
+<p align="center">
+<b>🎯 Currently looking for:</b> SDE Internships · Full-Stack Roles · AI/LLM Engineering Roles
+</p>
