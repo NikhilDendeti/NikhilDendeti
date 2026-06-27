@@ -72,6 +72,22 @@
 ### 📊 GitHub Stats
 
 <p align="center">
+<img src="https://img.shields.io/badge/Total%20Contributions-489-0e75b6?style=for-the-badge" alt="total contributions" />
+<img src="https://img.shields.io/badge/2026%20Pace-314%20YTD-success?style=for-the-badge" alt="2026 contributions" />
+</p>
+
+<table align="center">
+<tr><th>Year</th><th>Contributions</th></tr>
+<tr><td>2026 (till date)</td><td><b>314</b> 🔥</td></tr>
+<tr><td>2025</td><td>115</td></tr>
+<tr><td>2024</td><td>28</td></tr>
+<tr><td>2023</td><td>32</td></tr>
+<tr><td><b>Total</b></td><td><b>489</b></td></tr>
+</table>
+
+<p align="center"><i>~3x ramp-up in activity in 2026 vs. prior years combined — consistent recent momentum.</i></p>
+
+<p align="center">
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=nikhildendeti&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikhildendeti&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
