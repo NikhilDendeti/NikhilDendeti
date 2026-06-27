@@ -36,9 +36,9 @@
 > AI-powered agentic system using LLM orchestration for automated decision-making.
 > `LangChain` `CrewAI` `Python` `RAG`
 
-> #### 💼 [Veersa](#)
+> #### 💼 [Versa](#)
 > Full-stack freelancing marketplace connecting clients and freelancers end-to-end.
-> `Django` `FastAPI` `React` `PostgreSQL`
+> `Django` `FastAPI` `React` `Mysql`
 
 > #### 📈 [Stock Sense](https://github.com/NikhilDendeti/Stock_Sense)
 > Market analysis tool that crunches stock data into actionable insight.
@@ -88,9 +88,6 @@
 <tr><td>Current Streak</td><td>0</td></tr>
 </table>
 
-<p align="center">
-<b>🎯 Next move that actually moves this number:</b> a fresh streak. The longest streak so far is just 3 days — even a 10–14 day run logged closer to interview season reads as far stronger discipline signal than a one-off contribution count.
-</p>
 
 <p align="center">
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=nikhildendeti&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
