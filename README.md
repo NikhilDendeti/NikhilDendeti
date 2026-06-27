@@ -69,25 +69,27 @@
 
 ---
 
-### 📊 GitHub Stats <sub>(live as of June 27, 2026)</sub>
+### 📊 GitHub Stats <sub>(live, verified Jun 27, 2026)</sub>
 
 <p align="center">
-<img src="https://img.shields.io/badge/489-Total%20Contributions-0e75b6?style=for-the-badge" />
-<img src="https://img.shields.io/badge/314-2026%20YTD-success?style=for-the-badge" />
-<img src="https://img.shields.io/badge/2.7x-YoY%20Growth-orange?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Total%20Contributions-126-0e75b6?style=for-the-badge" />
+<img src="https://img.shields.io/badge/PRs%20Merged-5-success?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Stars%20Earned-2-yellow?style=for-the-badge" />
 </p>
 
 <table align="center">
-<tr><th>Year</th><th>Contributions</th><th></th></tr>
-<tr><td>2026 (Jan – Jun, in progress)</td><td><b>314</b></td><td>🔥 already the biggest year, with 6 months left</td></tr>
-<tr><td>2025</td><td>115</td><td>▲ 311% vs. 2024</td></tr>
-<tr><td>2024</td><td>28</td><td>▼ off a slow year</td></tr>
-<tr><td>2023</td><td>32</td><td>baseline</td></tr>
-<tr><td><b>Total (2023–2026 YTD)</b></td><td><b>489</b></td><td></td></tr>
+<tr><th>Metric</th><th>Value</th></tr>
+<tr><td>Total Contributions (Sep 2023 – Present)</td><td><b>126</b></td></tr>
+<tr><td>Total PRs</td><td>5</td></tr>
+<tr><td>Total Commits (last 12 months)</td><td>12</td></tr>
+<tr><td>Repos Contributed To (last 12 months)</td><td>2</td></tr>
+<tr><td>Stars Earned</td><td>2</td></tr>
+<tr><td>Longest Streak</td><td>3 days <i>(Feb 7–9, 2024)</i></td></tr>
+<tr><td>Current Streak</td><td>0</td></tr>
 </table>
 
 <p align="center">
-<b>🚀 314 contributions in the first 6 months of 2026 alone — 2.7x his entire 2025 output, on pace to roughly double it again by year-end.</b>
+<b>🎯 Next move that actually moves this number:</b> a fresh streak. The longest streak so far is just 3 days — even a 10–14 day run logged closer to interview season reads as far stronger discipline signal than a one-off contribution count.
 </p>
 
 <p align="center">
@@ -98,7 +100,7 @@
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=nikhildendeti&theme=tokyonight&hide_border=true" />
 </p>
-<p align="center"><i>Stats widgets above recalculate live on every page load — always current, no manual updates needed.</i></p>
+<p align="center"><i>Widgets above recalculate live on every page load — these will move automatically as you commit; no manual edits needed here again.</i></p>
 
 <p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=nikhildendeti&theme=tokyonight&no-frame=true&row=1&column=6" />
